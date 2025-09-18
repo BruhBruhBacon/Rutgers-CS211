@@ -1,0 +1,25 @@
+Menu:
+Appetizer:
+Spinach Artichoke Dip  Price: $0.0 Profit: $0.0
+
+Salad:
+Caesar Salad  Price: $0.0 Profit: $0.0
+
+Entree:
+Fiesta Quesadillas  Price: $0.0 Profit: $0.0
+
+Sides:
+Fries  Price: $0.0 Profit: $0.0
+
+Dessert:
+The Scarlet Brownie Sundae  Price: $0.0 Profit: $0.0
+
+Drink:
+Water  Price: $0.0 Profit: $0.0
+
+Stock:
+Empty - stockVar is null.
+Transactions:
+Empty - transactionVar is null.
+Tables and Parties:
+Empty -- leftQueueVar is empty
